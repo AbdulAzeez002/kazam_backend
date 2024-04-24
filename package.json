@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npx tsc && nodemon build/app.js",
-    "starts": "nodemon --exec ts-node src/app.ts"
+    "start": "nodemon --exec ts-node src/app.ts"
   },
   "keywords": [],
   "author": "",
